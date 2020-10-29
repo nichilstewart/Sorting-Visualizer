@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Sorting Visualizer App
+Welcome to my sorting visualizer app! Built in ReactJS using Bootstrap. Click the link below to try it out!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://nichilstewart.github.io/Sorting-Visualizer/
 
 ## Available Scripts
 
