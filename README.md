@@ -3,7 +3,7 @@ Welcome to my sorting visualizer app! Built in ReactJS using Bootstrap. Click th
 
 https://nichilstewart.github.io/Sorting-Visualizer/
 
-<img src="https://raw.githubusercontent.com/nichilstewart/Sorting-Visualizer/main/src/sample.jpg" width="66%" />
+<img src="https://raw.githubusercontent.com/nichilstewart/Sorting-Visualizer/main/src/sample.jpg" width="70%" />
 
 ## Available Scripts
 
